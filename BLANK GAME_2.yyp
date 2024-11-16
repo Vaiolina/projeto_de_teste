@@ -37,7 +37,9 @@
     {"id":{"name":"obj_player_maluco","path":"objects/obj_player_maluco/obj_player_maluco.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"RM1","path":"rooms/RM1/RM1.yy",},},
+    {"id":{"name":"rm2","path":"rooms/rm2/rm2.yy",},},
+    {"id":{"name":"rm3","path":"rooms/rm3/rm3.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
@@ -45,7 +47,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"RM1","path":"rooms/RM1/RM1.yy",},},
+    {"roomId":{"name":"rm2","path":"rooms/rm2/rm2.yy",},},
+    {"roomId":{"name":"rm3","path":"rooms/rm3/rm3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
